@@ -1,6 +1,6 @@
 # nospr-kopytko
 
-How to run
+## How to run
 
 ```
 virtualenv venv -ppython3
@@ -11,3 +11,8 @@ ipython kernel install --user --name=venv
 python3 -m jupyter notebook
 
 ```
+
+## How to marek solution
+
+* see `image-detection-marek.ipynb`
+* `python marek_game.py images/XXX.jpg`
